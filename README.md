@@ -3,9 +3,24 @@ prev: false
 next: false
 ---
 
-# DES-340
+# Mini-Design Portfolio
 
+This is a collection of a few projects from my last job where I was a designer and a web developer, as well as some more recent project excerpts.
 
+My web design and development course websites can be found at:
+
+- [DES340](https://msuwebdesign.com/)
+- [DES440](http://msu.briannorris.io/)
+
+I also encourage you to checkout my [CodePen projects](https://codepen.io/bdnorris/#), especially my UI explorations:
+
+- [01: Tabs](https://codepen.io/bdnorris/pen/wpdxJB)
+- [02: Modals](https://codepen.io/bdnorris/pen/GyOMbm)
+- [03: Animated Navigation Indicator](https://codepen.io/bdnorris/pen/VyQNqQ)
+- [04: Scroll Progress Indicator](https://codepen.io/bdnorris/pen/JMgVKB)
+- [05: Shifting Form Labels](https://codepen.io/bdnorris/pen/WMbPbw)
+- [06: Custom Checkboxes and Radio Buttons](https://codepen.io/bdnorris/pen/pajdNp)
+- [07: Stateful Buttons](https://codepen.io/bdnorris/pen/eVWNWy)
 
 ---
 

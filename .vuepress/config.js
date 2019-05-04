@@ -20,7 +20,8 @@ module.exports = {
           "projects/pension.md",
           "projects/repowered_ngv.md",
           "projects/springfield_underground.md",
-          "projects/scott_loveland.md"
+          "projects/scott_loveland.md",
+          "projects/highliner.md"
         ]
       }
     ]
