@@ -15,7 +15,8 @@ module.exports = {
         title: "Projects",
         collapsable: true,
         children: [
-          "projects/project01A.md"
+          "projects/cocacola.md",
+          "projects/meyerjohns.md"
         ]
       }
     ]
