@@ -4,8 +4,6 @@ prev: false
 
 # Ozark's Coca-Cola/Dr. Pepper
 
-## Website
-
 Ozark's Coca-Cola/Dr. Pepper Bottling Company needed a site refresh with an easier way to keep the homepage up to date with fresh content. A series of "card" style components were designed that could be created easily inside Wordpress. Because bottler's don't usually have access to a library of lifestyle photos, bottle and packaging art was utilized as the primary visual treatment.
 
 ![Homepage: Desktop](/assets/img/Coca-Cola_Ozarks/Firefox_Screenshot_2015-12-31T22-42-50.839Z.png)

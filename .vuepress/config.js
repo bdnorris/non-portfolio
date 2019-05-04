@@ -17,7 +17,10 @@ module.exports = {
         children: [
           "projects/cocacola.md",
           "projects/meyerjohns.md",
-          "projects/pension.md"
+          "projects/pension.md",
+          "projects/repowered_ngv.md",
+          "projects/springfield_underground.md",
+          "projects/scott_loveland.md"
         ]
       }
     ]

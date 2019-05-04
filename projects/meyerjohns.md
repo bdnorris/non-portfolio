@@ -1,7 +1,5 @@
 # Meyer & Johns Dental
 
-## Website
-
 Meyer and Johns Dental wanted a brand refresh and a new website to match. The site emphasizes family dentistry, new techniques and cosmetic dentistry. Still live at [meyerjohnsdental.com](https://meyerjohnsdental.com/)
 
 ![Homepage](/assets/img/Meyer_and_Johns/Firefox_Screenshot_2015-12-28T22-27-36.941Z.png)
