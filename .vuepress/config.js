@@ -16,7 +16,8 @@ module.exports = {
         collapsable: true,
         children: [
           "projects/cocacola.md",
-          "projects/meyerjohns.md"
+          "projects/meyerjohns.md",
+          "projects/pension.md"
         ]
       }
     ]
@@ -25,6 +26,9 @@ module.exports = {
     lineNumbers: true,
     toc: {
       includeLevel: [2, 3]
+    },
+    extendMarkdown: md => {
+      md.use(require('markdown-it-imsize'))
     }
   },
   base: "/"

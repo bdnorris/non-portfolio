@@ -11,7 +11,7 @@ Ozark's Coca-Cola/Dr. Pepper Bottling Company needed a site refresh with an easi
 ![Homepage: Desktop](/assets/img/Coca-Cola_Ozarks/Firefox_Screenshot_2015-12-31T22-42-50.839Z.png)
 *Homepage (Desktop)*
 
-![Homepage (Mobile)](/assets/img/Coca-Cola_Ozarks/Firefox_Screenshot_2015-12-31T22-43-45.954Z.png)
+![Homepage (Mobile)](/assets/img/Coca-Cola_Ozarks/Firefox_Screenshot_2015-12-31T22-43-45.954Z.png =300x)
 *Homepage (Mobile)*
 
 ![Products Landing](/assets/img/Coca-Cola_Ozarks/Firefox_Screenshot_2015-12-31T22-43-01.324Z.png)
