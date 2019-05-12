@@ -1,14 +1,14 @@
 module.exports = {
-  title: "Web Design for Design Majors",
-  description: "DES-340 Documentation Site",
+  title: "Brian Norris: Mini-portfolio",
+  description: "Small portfolio of web design work.",
   themeConfig: {
     displayAllHeaders: false, // Default: false
     lastUpdated: "Last Updated", // string | boolean,
-    nav: [
-      //   { text: 'Home', link: '/' },
-      // { text: "Projects", link: "/projects/" }
-      { text: 'Slack', link: 'https://msuwebdesign.slack.com/' },
-    ],
+    // nav: [
+    //   //   { text: 'Home', link: '/' },
+    //   // { text: "Projects", link: "/projects/" }
+    //   { text: 'Slack', link: 'https://msuwebdesign.slack.com/' },
+    // ],
     sidebar: [
       "/",
       {
