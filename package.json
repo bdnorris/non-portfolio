@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vuepress build"
+  },
   "dependencies": {
     "@vuepress/plugin-active-header-links": "^1.0.0-alpha.0",
     "@vuepress/plugin-last-updated": "^1.0.0-alpha.0",
@@ -6,8 +10,9 @@
     "@vuepress/plugin-search": "^1.0.0-alpha.0",
     "@vuepress/theme-default": "^1.0.0-alpha.0",
     "axios": "^0.18.0",
+    "global": "^4.3.2",
     "markdown-it-imsize": "^2.0.1",
-    "vuepress": "^1.0.0-alpha.30",
+    "vuepress": "1.0.0-alpha.44",
     "vuex": "^3.0.1"
   }
 }
